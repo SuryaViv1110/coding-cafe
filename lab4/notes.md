@@ -23,3 +23,21 @@ Git printed the commit identifier, commit message, and a summary of the changes.
 
 Question 8
 The first seven characters are called an abbreviated commit hash. They help identify and reference a particular commit in the repository's history.
+
+Question 9
+The four steps are creating or editing files, checking their status using git status, staging changes using git add, and saving them with git commit. This cycle is repeated whenever we make changes to our project.
+
+Question 10
+README.md provides an introduction to the repository, explaining its purpose and contents. GitHub automatically displays the root README on the repository's main page, making it easier for visitors to understand the project.
+
+Question 11
+gh auth login authenticated my GitHub account through a browser and configured Git to use GitHub credentials. This allows me to push changes without entering my GitHub password each time.
+
+Question 12
+The README.md file appears as formatted text on the front page of my GitHub repository. This happens because GitHub automatically recognizes and renders the README file.
+
+Question 13
+Pushing did not change my existing local commits or their history. It uploaded the commits to GitHub and updated the remote-tracking information.
+
+Question 14
+A private GitHub repository exists online, but only its owner and authorized collaborators can access it. If the repository does not exist on GitHub at all, there is no online copy for anyone to access.
