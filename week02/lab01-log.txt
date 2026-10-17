@@ -1,0 +1,103 @@
+    1  python3 --version
+    2  pwd
+    3  ls
+    4  ls -Force
+    5  ls
+    6  ls -a
+    7  clear
+    8  pwd
+    9  ls
+   10  ls -a
+   11  ls -1
+   12  ls -l
+   13  D:
+   14  pwd
+   15  cd /mnt/d/Coding_cafe
+   16  ls coding-cafe/week02
+   17  ls Coding_cafe/week02
+   18  ls
+   19  echo $PATH
+   20  which python3
+   21  which pip
+   22  which ls
+   23  python -m venv .venv
+   24  python3
+   25  cd/mnt/d
+   26  cd/mnt/d/
+   27  cd/mnt/d/Coding_cafe
+   28  ls
+   29  cd ..
+   30  cd..
+   31  cd/mnt/d
+   32  cd/mnt/d/Coding_cafe
+   33  ls /mnt
+   34  cd /mnt/d
+   35  clear
+   36  ls
+   37  ls -a
+   38  cd /mnt/c
+   39  ls
+   40  ls -a
+   41  ls -1
+   42  cd ..
+   43  ls -1
+   44  ls -a
+   45  ls -l
+   46  cd /mnt/d
+   47  ls
+   48  cd Coding_cafe
+   49  ls
+   50  clear
+   51  cd ..
+   52  echo $Path
+   53  echo $PATH
+   54  which python 3
+   55  cd /mnt/c
+   56  which python 3
+   57  which pip
+   58  which ls
+   59  echo $PATH | tr ':' '\n' | wc -l
+   60  cd /mnt/d
+   61  echo $PATH | tr ':' '\n' | wc -l
+   62  which python
+   63  cd ..
+   64  which python3
+   65  cd /mnt/d
+   66  pyton3
+   67  cd /Coding_cafe
+   68  cd /mnt/Coding_cafe
+   69  ls
+   70  cd Coding_cafe
+   71  python3 -m venv .venv
+   72  cd ..
+   73  mv Coding_cafe coding-cafe
+   74  cd /mnt/d
+   75  mv Coding_cafe coding-cafe
+   76  pwd
+   77  mv Coding_cafe coding-cafe
+   78  cd coding-cafe
+   79  sudo apt update
+   80  sudo apt install python3.14-venv
+   81  cd /mnt/d/Coding_cafe
+   82  cd /mnt/d/coding-cafe
+   83  rm -r .venv
+   84  python3 -m venv .venv
+   85  ls -a
+   86  python3 -m venv .venv
+   87  ls -a
+   88  source .venv/bin/activate
+   89  which python3
+   90  pip list
+   91  pip install requests
+   92  pip list
+   93  deactivate
+   94  which python3
+   95  man ls
+   96  ls -h
+   97  ls -lh
+   98  man man
+   99  cd ..
+  100  cd coding-cafe/
+  101  history
+  102  python3
+  103  history > week02/lab01-log.txt
